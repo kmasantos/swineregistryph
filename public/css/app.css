@@ -7831,19 +7831,12 @@ input[type=range]:focus::-ms-fill-upper {
 
 .side-nav .user-view .background,
 .side-nav .userView .background {
-  overflow: hidden;
-  position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  z-index: -1;
+  
 }
 
 .side-nav .user-view .background img,
 .side-nav .userView .background img {
-  width: 300px;
-  height: 186px;
+  width: 100%
 }
 
 .side-nav .user-view .circle,
