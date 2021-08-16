@@ -7842,7 +7842,8 @@ input[type=range]:focus::-ms-fill-upper {
 
 .side-nav .user-view .background img,
 .side-nav .userView .background img {
-  width: 100%;
+  width: 300px;
+  height: 186px;
 }
 
 .side-nav .user-view .circle,
