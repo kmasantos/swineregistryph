@@ -78,13 +78,13 @@
                     <div class="col l4 offset-l2 s12">
                         <h5 class="black-text">Participating Agencies</h5>
                         <div class="col s4">
-                            <img style="height:auto; width:100%;" src="{{ asset('storage/images/default/ias-logo.jpg') }}">
+                            <img style="height:auto; width:100%;" src="{{ asset('images/ias-logo.png') }}">
                         </div>
                         <div class="col s4">
-                            <img style="height:auto; width:100%;" src="{{ asset('storage/images/default/up-logo.png') }}">
+                            <img style="height:auto; width:100%;" src="{{ asset('images/uplb-logo.png') }}">
                         </div>
                         <div class="col s4">
-                            <img style="height:auto; width:100%;" src="{{ asset('storage/images/default/pcaarrd-logo.png') }}">
+                            <img style="height:auto; width:100%;" src="{{ asset('images/pcaarrd-logo.png') }}">
                         </div>
                     </div>
                 </div>

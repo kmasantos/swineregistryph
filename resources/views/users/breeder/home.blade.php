@@ -9,11 +9,11 @@
         <li>
             <div class="user-view">
                 <div class="background">
-                    <img src="{{ asset('storage/images/default/sidenav_bg.jpg') }}">
+                    <img src="{{ asset('images/swine-registry-logo.png') }}">
                 </div>
-                <a href="#!user"><img class="circle" src="{{ asset('storage/images/default/breeder.png') }}"></a>
+                {{-- <a href="#!user"><img class="circle" src="{{ asset('storage/images/default/breeder.png') }}"></a>
                 <a href="#!name"><span class="white-text name">{{ Auth::user()->name }}</span></a>
-                <a href="#!email"><span class="white-text email">{{ Auth::user()->email }}</span></a>
+                <a href="#!email"><span class="white-text email">{{ Auth::user()->email }}</span></a> --}}
             </div>
         </li>
         <li :class="{ active : currentRoute.breeder.showRegForm }">

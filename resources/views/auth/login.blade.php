@@ -8,7 +8,9 @@
 <div class="container">
     <div class="row"></div>
     <div class="row"></div>
-    <div class="row"></div>
+    <div class="row center">
+        <img src="{{ asset('images/swine-registry-logo.png') }}" />
+    </div>
     <div class="row">
         <div class="col s4 offset-s4">
             <div class="row">
